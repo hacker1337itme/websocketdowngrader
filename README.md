@@ -1,7 +1,7 @@
 # websocketdowngrader
 websocketdowngrader
 
-This Project is tool to scan CIDR ranges, discover domains, find WebSocket servers, and test for downgrade vulnerabilities. Here's a comprehensive solution
+This Project is tool to scan CIDR ranges, discover domains, find WebSocket servers, and test for downgrade vulnerabilities.
 
 ## Go.mod Dependencies
 
